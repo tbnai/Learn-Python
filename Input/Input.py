@@ -1,4 +1,4 @@
-#---Inputing---#
+#Prints functions into the console and asks the user for the input#
 
 name = input("Hello what is your name?: ")
 age = int(input("What is your age?: "))
